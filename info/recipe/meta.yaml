@@ -1,0 +1,64 @@
+# This file created by conda-build 3.18.9
+# meta.yaml template originally from:
+# /opt/recipe, last modified Thu Nov 28 15:53:27 2019
+# ------------------------------------------------
+
+package:
+    name: kobas
+    version: 3.0.3
+source:
+    md5: 2e812ab60925c261ffdb799542a76b15
+    patches:
+        - Replace-deprecated-Seq.tostring-method.patch
+        - package.patch
+    url: http://kobas.cbi.pku.edu.cn/kobas-2.1.1/kobas-3.0.3.tar.gz
+build:
+    noarch: python
+    number: '3'
+    script: /opt/conda/conda-bld/kobas_1574956562724/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho/bin/python
+        -m pip install . --ignore-installed --no-deps -vv
+    string: py_3
+requirements:
+    host:
+        - _libgcc_mutex 0.1 main
+        - ca-certificates 2019.9.11 hecc5488_0
+        - certifi 2019.11.28 py27_0
+        - libffi 3.2.1 he1b5a44_1006
+        - libgcc-ng 9.1.0 hdf63c60_0
+        - libstdcxx-ng 9.1.0 hdf63c60_0
+        - ncurses 6.1 hf484d3e_1002
+        - openssl 1.1.1d h516909a_0
+        - pip 19.3.1 py27_0
+        - python 2.7.15 h5a48372_1009
+        - readline 8.0 hf8c457e_0
+        - setuptools 42.0.1 py27_0
+        - sqlite 3.30.1 hcee41ef_0
+        - tk 8.6.10 hed695b0_0
+        - wheel 0.33.6 py27_0
+        - zlib 1.2.11 h516909a_1006
+    run:
+        - bioconductor-qvalue
+        - biopython
+        - blast
+        - numpy
+        - pandas
+        - python <3
+        - r-base
+        - rpy2 >=2.8.5
+        - sqlite >=3.30.1,<4.0a0
+test:
+    commands:
+        - kobas-annotate -h
+        - kobas-identify -h
+        - kobas-run -h
+    imports:
+        - kobas
+about:
+    home: http://kobas.cbi.pku.edu.cn
+    license: Biopython License Agreement
+    summary: KEGG Orthology Based Annotation System
+extra:
+    copy_test_source_files: true
+    final: true
+    identifiers:
+        - biotools:kobas

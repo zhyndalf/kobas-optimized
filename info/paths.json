@@ -1,0 +1,425 @@
+{
+  "paths": [
+    {
+      "_path": "python-scripts/kobas-annotate",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "22e931a78d181dc717780e0366a7c7f6eeeb576d75679b16c37d56ba9e1ed970",
+      "size_in_bytes": 284
+    },
+    {
+      "_path": "python-scripts/kobas-identify",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "d5d248e4d08d7868f6e3a810ea99a150c9aae6afb6e02b3db43d091c4df5a269",
+      "size_in_bytes": 284
+    },
+    {
+      "_path": "python-scripts/kobas-run",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "702ea7b765eb8f643ceed3021d770decbcd1448603f59ef5d878a9f00cbd0fb8",
+      "size_in_bytes": 286
+    },
+    {
+      "_path": "site-packages/kobas-3.0.3.dist-info/INSTALLER",
+      "path_type": "hardlink",
+      "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+      "size_in_bytes": 5
+    },
+    {
+      "_path": "site-packages/kobas-3.0.3.dist-info/METADATA",
+      "path_type": "hardlink",
+      "sha256": "b782e08380c8927694633ad5c5adf17c23e0410671847d8b0b6fd50c1d2bd216",
+      "size_in_bytes": 1874
+    },
+    {
+      "_path": "site-packages/kobas-3.0.3.dist-info/RECORD",
+      "path_type": "hardlink",
+      "sha256": "1732f47d7aab10501ddb4707090e76612358755625ccfb06676701b4f8c1b355",
+      "size_in_bytes": 7296
+    },
+    {
+      "_path": "site-packages/kobas-3.0.3.dist-info/WHEEL",
+      "path_type": "hardlink",
+      "sha256": "23bf6aa29589ebd9794fac196b2b7d55438c79c19918fceedbf89c6d16168e92",
+      "size_in_bytes": 93
+    },
+    {
+      "_path": "site-packages/kobas-3.0.3.dist-info/entry_points.txt",
+      "path_type": "hardlink",
+      "sha256": "ac4677960366a0c6bd32ea3d6de09345a89c5278b56c03ea5079770f41e7cd10",
+      "size_in_bytes": 147
+    },
+    {
+      "_path": "site-packages/kobas-3.0.3.dist-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "d58448e817614307662e810e85838b092c9684eada5cff13a774cdab20769e39",
+      "size_in_bytes": 6
+    },
+    {
+      "_path": "site-packages/kobas/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "6d4c7a69866208cc80080b8089fec41e467b4fe6bb7d6446404a2af6f05d7bb0",
+      "size_in_bytes": 111
+    },
+    {
+      "_path": "site-packages/kobas/annot.py",
+      "path_type": "hardlink",
+      "sha256": "82a7843546f2297fd8445798f46f9e4315d81c6c6514f5c062148dfe85258754",
+      "size_in_bytes": 6211
+    },
+    {
+      "_path": "site-packages/kobas/config.py",
+      "path_type": "hardlink",
+      "sha256": "380b7bbb87f30b1e9daf32132cd2a4702fc7b993cbd740d294b04dce022928aa",
+      "size_in_bytes": 1665
+    },
+    {
+      "_path": "site-packages/kobas/dbutils.py",
+      "path_type": "hardlink",
+      "sha256": "601f7f2b18addc3b405206d5b45eb8e071a96023b80b09092c2fc02452ae714a",
+      "size_in_bytes": 13359
+    },
+    {
+      "_path": "site-packages/kobas/discover.py",
+      "path_type": "hardlink",
+      "sha256": "d1d5be55cba70c348fa8483161dbbff319c584bc698f92c285e08af17b7fe59d",
+      "size_in_bytes": 11488
+    },
+    {
+      "_path": "site-packages/kobas/exception.py",
+      "path_type": "hardlink",
+      "sha256": "6112812488d9f5b4001ba57678b6405e4ace667dd6c40c41bbadfee976ec9036",
+      "size_in_bytes": 693
+    },
+    {
+      "_path": "site-packages/kobas/fasta.py",
+      "path_type": "hardlink",
+      "sha256": "145f6caf56d9c52216e7d3e0b6166b9e1f36164c05be050483639a494af008cd",
+      "size_in_bytes": 2182
+    },
+    {
+      "_path": "site-packages/kobas/gsea.py",
+      "path_type": "hardlink",
+      "sha256": "fadc7e1ca02ae9732e513ba9fe98e3c086c501840e0495fef65221f7deda8c9e",
+      "size_in_bytes": 32181
+    },
+    {
+      "_path": "site-packages/kobas/kb/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "7ffde9963080dd46d9fa35e2fc7d3aa5de7b9770c1e15751ca10b9096e34d199",
+      "size_in_bytes": 149
+    },
+    {
+      "_path": "site-packages/kobas/kb/biocyc/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "c69bd384058abdda681e11796bf643b0a0ca57e6ca93421d64c00808a5b1f49d",
+      "size_in_bytes": 38
+    },
+    {
+      "_path": "site-packages/kobas/kb/biocyc/biocyc_organisms.py",
+      "path_type": "hardlink",
+      "sha256": "98066290e4e855e95c3d6d5b67fa768fa3c1ed71995eec2ff61a921ec43b9d6c",
+      "size_in_bytes": 2032
+    },
+    {
+      "_path": "site-packages/kobas/kb/biocyc/col.py",
+      "path_type": "hardlink",
+      "sha256": "23bde040aed2d9efc11e46a9a0cc5c466a4cdb2fadc106188b7a1f5de01dff0d",
+      "size_in_bytes": 2708
+    },
+    {
+      "_path": "site-packages/kobas/kb/create_table.py",
+      "path_type": "hardlink",
+      "sha256": "6cf2a056900d39f8410bc940a23df2615fe752e7fe8ce65d3efbcda727d440a6",
+      "size_in_bytes": 2733
+    },
+    {
+      "_path": "site-packages/kobas/kb/disease.py",
+      "path_type": "hardlink",
+      "sha256": "f02bb0a1735f7cd19e47d8c044c270fb88c0ebe51f31483c33a4fcd7f17941c4",
+      "size_in_bytes": 1537
+    },
+    {
+      "_path": "site-packages/kobas/kb/fundo/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "42c5448592917df1b0d9b5f85ad36628575282786911437d9179123da6f50305",
+      "size_in_bytes": 22
+    },
+    {
+      "_path": "site-packages/kobas/kb/fundo/do_lite.py",
+      "path_type": "hardlink",
+      "sha256": "25608dcd4c7709a1516480b6d84c2aa356419624e69b85bb77398e22789580b8",
+      "size_in_bytes": 1551
+    },
+    {
+      "_path": "site-packages/kobas/kb/gad/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "8463a56e37d77f2d212705a1bce3665bbea3bab3d53d40d8d9cab7ca7d52f852",
+      "size_in_bytes": 22
+    },
+    {
+      "_path": "site-packages/kobas/kb/gad/gad_all.py",
+      "path_type": "hardlink",
+      "sha256": "63d11aa86b234e98c93381a87124d6ba439f45879b0447a52e669e8bb5068b78",
+      "size_in_bytes": 2044
+    },
+    {
+      "_path": "site-packages/kobas/kb/go/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "b706b07bf1f793a1af12b8d0e1e1f8ef9059cc2a45c566e7bde1a70b3bef1b66",
+      "size_in_bytes": 55
+    },
+    {
+      "_path": "site-packages/kobas/kb/go/association.py",
+      "path_type": "hardlink",
+      "sha256": "d2cd71afc4310b4113ae10c2b7d7b4e21a71095509f7f330a694f4d4ac8b50ff",
+      "size_in_bytes": 2415
+    },
+    {
+      "_path": "site-packages/kobas/kb/go/go.py",
+      "path_type": "hardlink",
+      "sha256": "43ada7b6772c30ab010f42510e2e1950fa297b698255b6238a3abf04288eb1fd",
+      "size_in_bytes": 1916
+    },
+    {
+      "_path": "site-packages/kobas/kb/go/go_organisms.py",
+      "path_type": "hardlink",
+      "sha256": "119075eaccd603e2f88b6364d1084623a097b9e1d3ce71456881f671c470943f",
+      "size_in_bytes": 1973
+    },
+    {
+      "_path": "site-packages/kobas/kb/go/obo.py",
+      "path_type": "hardlink",
+      "sha256": "63401c5208ed0d2ba18f2a9d320ecc4dcf4ea3829e4ceb28b7871e3338e32a89",
+      "size_in_bytes": 2911
+    },
+    {
+      "_path": "site-packages/kobas/kb/kegg/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "0fa9370474bde25bb9ce48fc503a39012c46c70edde40128b7ded1fb9d0576cd",
+      "size_in_bytes": 48
+    },
+    {
+      "_path": "site-packages/kobas/kb/kegg/br08402_gene.py",
+      "path_type": "hardlink",
+      "sha256": "069411c675e850b195d3088da281383883e282454c6770f963e12f4c07f357b5",
+      "size_in_bytes": 2009
+    },
+    {
+      "_path": "site-packages/kobas/kb/kegg/ent.py",
+      "path_type": "hardlink",
+      "sha256": "fbe8fb9c883ed6d795f11f37dbd5a7d41d9fffe970b9b1ed926bbf35627dcd70",
+      "size_in_bytes": 4187
+    },
+    {
+      "_path": "site-packages/kobas/kb/kegg/kegg.py",
+      "path_type": "hardlink",
+      "sha256": "16de0c807d2dee5705dd0957c56f9200a4db1e7cc8356f164e56b0237bb44555",
+      "size_in_bytes": 2267
+    },
+    {
+      "_path": "site-packages/kobas/kb/kegg/ko.py",
+      "path_type": "hardlink",
+      "sha256": "08c150af1873408316e451732d346bd8fde37dae9c10fff763d881e49789e07f",
+      "size_in_bytes": 1279
+    },
+    {
+      "_path": "site-packages/kobas/kb/nhgri/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "817bacefc356b4047756b05b78009e689381cfcc2bb265a95fb7f6c6f1b0e125",
+      "size_in_bytes": 53
+    },
+    {
+      "_path": "site-packages/kobas/kb/nhgri/correction.py",
+      "path_type": "hardlink",
+      "sha256": "eca8421f775ba8c3bf4474c6b73a987ddebc2c2ae183f8763fdc3b99c5ca36ad",
+      "size_in_bytes": 867
+    },
+    {
+      "_path": "site-packages/kobas/kb/nhgri/gene_info.py",
+      "path_type": "hardlink",
+      "sha256": "4ba0f1b0c15b39c7a0c521afeb9d0936c06d15d07b2573b557525f5bb56ac842",
+      "size_in_bytes": 1138
+    },
+    {
+      "_path": "site-packages/kobas/kb/nhgri/gwascatalog.py",
+      "path_type": "hardlink",
+      "sha256": "3498315f12f8614b1cf3bf9c2d4671387698c9ce29971b89a163d2008cd8387b",
+      "size_in_bytes": 1867
+    },
+    {
+      "_path": "site-packages/kobas/kb/omim/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "fe2db1d9d60aa7ac4fb21d9b343a499233a8f610908cd901f3c22b0123036b95",
+      "size_in_bytes": 38
+    },
+    {
+      "_path": "site-packages/kobas/kb/omim/correction.py",
+      "path_type": "hardlink",
+      "sha256": "4c9719d4d06dc0cac2fb23047035949abef076d912b855b42252716e1541bcd1",
+      "size_in_bytes": 1985
+    },
+    {
+      "_path": "site-packages/kobas/kb/omim/morbidmap.py",
+      "path_type": "hardlink",
+      "sha256": "14db6e5641e1467d05676783a6c95c5575479f37dd813e8ec157e2cfb8619b6a",
+      "size_in_bytes": 2833
+    },
+    {
+      "_path": "site-packages/kobas/kb/orthology/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "9483ca7350162a8e71f928805730ce98afa822b511e6b69569f32feb36e4aba3",
+      "size_in_bytes": 31
+    },
+    {
+      "_path": "site-packages/kobas/kb/orthology/orthology.py",
+      "path_type": "hardlink",
+      "sha256": "fe7378f6de0a3c44a02e3f631fe81bbf952fccbff1a35e19318bb647c699fb5a",
+      "size_in_bytes": 519
+    },
+    {
+      "_path": "site-packages/kobas/kb/orthology/tsv.py",
+      "path_type": "hardlink",
+      "sha256": "689a421d70b24c500316b059efdf11e60a69d9ea2404e60ebb736bdc4ba5c5e8",
+      "size_in_bytes": 1769
+    },
+    {
+      "_path": "site-packages/kobas/kb/panther/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "99b0656b5617bfbf2375952f3ca8e618f9cc9f28260d9eeb9c76e0d5f46b2080",
+      "size_in_bytes": 39
+    },
+    {
+      "_path": "site-packages/kobas/kb/panther/panther_organisms.py",
+      "path_type": "hardlink",
+      "sha256": "69e3ac41731f4718ecc6b3c27bee28f7a0fdf256117ecb916eba27035dcac118",
+      "size_in_bytes": 1114
+    },
+    {
+      "_path": "site-packages/kobas/kb/panther/sap.py",
+      "path_type": "hardlink",
+      "sha256": "7dd1e1a9988640283b6f7bf779cf2e5eb16c4880d2ccb2acc68901619291c0fb",
+      "size_in_bytes": 2198
+    },
+    {
+      "_path": "site-packages/kobas/kb/pathway.py",
+      "path_type": "hardlink",
+      "sha256": "50b33c0dcb18252980c59504d6bd825bc6615704e8a661bcf39eaf6bd58babe7",
+      "size_in_bytes": 1472
+    },
+    {
+      "_path": "site-packages/kobas/kb/pid/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "40adf4191b7c8f69c2a70ebaa5a9feaa788f54d977c5425c35ee4b9d1ea0ff36",
+      "size_in_bytes": 22
+    },
+    {
+      "_path": "site-packages/kobas/kb/pid/pid_xml.py",
+      "path_type": "hardlink",
+      "sha256": "795ba904d67b223ed2ef2c01733d0e9d259fcdc3c8a820db748cb8c612edbddb",
+      "size_in_bytes": 4776
+    },
+    {
+      "_path": "site-packages/kobas/kb/reactome/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "32954443c2ae364da628acef228747642faed046c6a0c20b07c64f0de8d58864",
+      "size_in_bytes": 55
+    },
+    {
+      "_path": "site-packages/kobas/kb/reactome/reactome.py",
+      "path_type": "hardlink",
+      "sha256": "2e3a8ae12508f1b995ab71829fb8c70a04d950cba1fea8bcacedb6d9a135373e",
+      "size_in_bytes": 1872
+    },
+    {
+      "_path": "site-packages/kobas/kb/reactome/reactome_organisms.py",
+      "path_type": "hardlink",
+      "sha256": "4c7f41fd5ab32ed81993a02298f4fa8bc06d68976b016dcd90377bc3e9c3b9aa",
+      "size_in_bytes": 936
+    },
+    {
+      "_path": "site-packages/kobas/kb/reactome/uniprot_2_pathways.py",
+      "path_type": "hardlink",
+      "sha256": "4d5e15397ad00678c14906c2e8b93ea887cb4c53c3daab551fc126aa32821eba",
+      "size_in_bytes": 2409
+    },
+    {
+      "_path": "site-packages/kobas/output.py",
+      "path_type": "hardlink",
+      "sha256": "2774d96866eddbc5e167340b8f5c1469ce0a7c027b2461df09feff9fe513190e",
+      "size_in_bytes": 7719
+    },
+    {
+      "_path": "site-packages/kobas/scripts/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "911a3d8e157f0da82f2205a57d6df824505fc1e290d228a31a3dbea560d376b8",
+      "size_in_bytes": 54
+    },
+    {
+      "_path": "site-packages/kobas/scripts/annotate.py",
+      "path_type": "hardlink",
+      "sha256": "0a4d84eb8dd93e449fd41383cf1cf8062a1da74324d2448cfc216050f06b6a48",
+      "size_in_bytes": 10720
+    },
+    {
+      "_path": "site-packages/kobas/scripts/cluster.py",
+      "path_type": "hardlink",
+      "sha256": "451767ca3905044b27773192a24aeac753cbccbb9764ad85ff07c6c8bec00a38",
+      "size_in_bytes": 3284
+    },
+    {
+      "_path": "site-packages/kobas/scripts/identify.py",
+      "path_type": "hardlink",
+      "sha256": "5ed24138d83ca1a64a3466abc1ab30bcb7920446c3d46b82d77910d54790572d",
+      "size_in_bytes": 10393
+    },
+    {
+      "_path": "site-packages/kobas/scripts/run.py",
+      "path_type": "hardlink",
+      "sha256": "0aff518db73e23792b3bdbcf6b86eaee688ddbd9d114f3b25c6205fc784fcc09",
+      "size_in_bytes": 192
+    },
+    {
+      "_path": "site-packages/kobas/scripts/run_gsea.py",
+      "path_type": "hardlink",
+      "sha256": "03d22215dc1d764cff1d43f5d88ff809495f0263889e9f2d77cddc7869a5f62e",
+      "size_in_bytes": 10236
+    },
+    {
+      "_path": "site-packages/kobas/scripts/run_kobas.py",
+      "path_type": "hardlink",
+      "sha256": "0f03dac0e4038f5955d5a46c9cf43fc236ee96bd7c52dbbce2a63f6812ca3e47",
+      "size_in_bytes": 8614
+    },
+    {
+      "_path": "site-packages/kobas/scripts/run_mulmds.py",
+      "path_type": "hardlink",
+      "sha256": "13df023e3c9a11b3effadf5dcb73904a120c6002720143dd3f6e4302a0200004",
+      "size_in_bytes": 12455
+    },
+    {
+      "_path": "site-packages/kobas/sim.py",
+      "path_type": "hardlink",
+      "sha256": "4f93f67a41130f5365ee81ca5cb199092dae8ebf93257d4c51394c609466e312",
+      "size_in_bytes": 7914
+    },
+    {
+      "_path": "site-packages/kobas/snbea.py",
+      "path_type": "hardlink",
+      "sha256": "a8d1708a34c9f4facbbaa1a6667b64f5992279391111fcd0fba88836e7a1ff73",
+      "size_in_bytes": 6991
+    },
+    {
+      "_path": "site-packages/kobas/utils.py",
+      "path_type": "hardlink",
+      "sha256": "68a9f62ed0ceec349e29c7dffcda54ad4e54fb453faf4bfc3124c4d1bd40f9c6",
+      "size_in_bytes": 885
+    }
+  ],
+  "paths_version": 1
+}

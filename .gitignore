@@ -1,0 +1,24 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.so
+
+# KOBAS runtime files
+*.log
+*.tmp
+
+# Test outputs
+ztr_result*
+identify_result*
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
